@@ -1,16 +1,17 @@
-## Hi there 👋
+Hello, my name is Matt :D
+🌿Forest Engineer and Master’s student in Natural Resources.
 
-<!--
-**Matt7UC/Matt7UC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a Forest Engineer interested in biodiversity conservation, community ecology, native vegetation, and riparian ecosystems.
 
-Here are some ideas to get you started:
+🌱 My work focuses on the floristic characterization of riparian forests, exploring patterns of species richness, community composition, and the distribution of native and exotic species across environmental and spatial gradients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 In this profile, I share scripts, ecological analyses, and data visualizations developed mainly in R, along with spatial analysis tools applied to ecological research.
+
+🔎 Main interests:
+
+- 🌿 Native flora ecology and conservation
+- 🌊 Riparian forests and ecosystems
+- 🌱 Floristic diversity and community composition
+- 🧬 Native and exotic species
+- 🗺️ Environmental and spatial gradients
+- 🌳 Ecological restoration
